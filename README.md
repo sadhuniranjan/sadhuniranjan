@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 **Contribution on Perficient Blogs -** 
 
+https://blogs.perficient.com/author/nsadhu/
+
 Implementing Schema.org in the Sitecore FAQ Accordion Rendering : https://blogs.perficient.com/2023/12/14/implementing-schema-org-in-the-sitecore-faq-accordion-rendering/
 
 Implementing Schema.org in the Custom Breadcrumb Rendering : https://blogs.perficient.com/2023/10/09/implementing-schema-org-in-the-custom-breadcrumb-rendering/
